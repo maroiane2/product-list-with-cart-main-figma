@@ -11,7 +11,7 @@
   # mobile design
 # ------------------------------------------------------------------------------
 # mobile design empty
-   ![mobile-design-empty](https://github.com/user-attachments/assets/5ed2f06b-79d9-449a-a7fa-3e40b7bf2d1f) ![mobile-design-selected](https://github.com/user-attachments/assets/0acce495-5b62-4238-812e-e3a28597a564)
+   ![mobile-design-empty](https://github.com/user-attachments/assets/5ed2f06b-79d9-449a-a7fa-3e40b7bf2d1f)
 ## mobile design selected
    ![mobile-design-selected](https://github.com/user-attachments/assets/0acce495-5b62-4238-812e-e3a28597a564)
 ## mobile design order confirmation
